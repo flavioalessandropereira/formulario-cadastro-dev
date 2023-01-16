@@ -6,5 +6,5 @@ Projeto de Formulário de cadastro de desenvolvedores.
 
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
 
-[![IMAGE ALT TEXT HERE](/src/formcaddev.JPG)]
+![IMAGE ALT TEXT HERE](/src/formcaddev.JPG)
 
