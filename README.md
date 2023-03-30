@@ -1,5 +1,5 @@
 # Formulário Cadastro DEV
-Projeto de Formulário de cadastro de desenvolvedores. 
+Projeto de Formulário de Cadastro de Desenvolvedores. 
 
 ## Tecnologias utilizadas:
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
