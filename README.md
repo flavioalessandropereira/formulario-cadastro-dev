@@ -2,9 +2,9 @@
 Projeto de Formulário de Cadastro de Desenvolvedores. 
 
 ## Tecnologias utilizadas:
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : Linguagem de Marcação de Hipertexto
 
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) :  Linguagem Cascading Style Sheet, usado para estilizar elementos escritos em uma linguagem de marcação como HTML. 
 
 ![IMAGE ALT TEXT HERE](/src/formcaddev.JPG)
 
